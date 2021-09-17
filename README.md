@@ -47,8 +47,8 @@ Login with the default credentials [admin:net]
 ```
 
 ## Screenshots
-![botnetlulz](https://user-images.githubusercontent.com/86132648/133714980-28987c34-846c-4d6f-b952-015edbdd6cdd.PNG)
-	
+!(https://user-images.githubusercontent.com/86132648/133769422-7a341223-bb15-440f-a437-b285c168307d.PNG)
+
 ## Credits
 ```
 https://github.com/0x1CA3
