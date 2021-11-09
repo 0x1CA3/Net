@@ -64,9 +64,15 @@ gcc -o net net.c -lpthread
 ./net
 Open up a new terminal window
 Connect to the CnC | Example: nc 127.0.0.1 3434
-Login with the default credentials [admin:net]
+Login with the default credentials [admin:password]
 ```
 
+## Update Log
+```
+	[11/9/21] - Removed 'adb_check' option
+	[11/9/21] - Remade 'Net'
+	[9/14/21] - Created 'Net'
+```
 ## Screenshots
 ![botnet.png](https://user-images.githubusercontent.com/86132648/133769422-7a341223-bb15-440f-a437-b285c168307d.PNG)
 
