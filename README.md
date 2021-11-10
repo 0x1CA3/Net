@@ -3,7 +3,7 @@
     Net - A botnet written in C.
 </h1>
 <p align="center">
-	Net is a very easy-to-use botnet that several options while being highly customizable.
+	Net is a very easy-to-use botnet that has several options while being highly customizable.
 </p>
 
 <p align="center">
